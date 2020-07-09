@@ -1,0 +1,23 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yagobarrosdev/api-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yagobarrosdev/api-test/issues"
+  },
+  "homepage": "https://github.com/yagobarrosdev/api-test#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
