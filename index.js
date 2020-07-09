@@ -1,6 +1,6 @@
 // Require packages and set the port
 const express = require('express');
-const port = 3002;
+const port = 3000;
 const app = express();
 
 app.get('/', (request, response) => {
